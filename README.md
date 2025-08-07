@@ -11,6 +11,20 @@ The final solution is wrapped in a **Streamlit-based web application** for inter
 
 ---
 
+## 🛠️ Technologies Used
+
+- Python  
+- Streamlit  
+- TensorFlow / Keras  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib (for analysis)  
+- Jupyter Notebook  
+- H5 Format (for model saving)
+
+---
+
 ## 🖥️ Web App Features
 
 - Accepts 30 diagnostic input values  
@@ -147,19 +161,6 @@ You can enter these manually into the Streamlit app to test predictions.
 | worst fractal dimension     | 0.0890  |
 
 ✅ Paste the values into the input fields in the Streamlit app and click **Predict** to test how your model performs.
-
----
-## 🛠️ Technologies Used
-
-- Python  
-- Streamlit  
-- TensorFlow / Keras  
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib (for analysis)  
-- Jupyter Notebook  
-- H5 Format (for model saving)
 
 ---
 
