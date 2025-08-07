@@ -212,9 +212,8 @@ Key Details:
 
 ## 💬 App Preview
 
-*will share soon*
-![App Screenshot](SS01.png)  
-![App Screenshot](SS02.png)
+![App Screenshot](SS01BC.png)  
+![App Screenshot](SS02BC.png)
 
 ---
 
