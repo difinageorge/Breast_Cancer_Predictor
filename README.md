@@ -39,7 +39,7 @@ The final solution is wrapped in a **Streamlit-based web application** for inter
 
 You can try out the deployed version of this Breast Cancer Prediction App here:
 
-👉 [Launch Live App](<your-live-link-here>)
+👉 [Launch Live App](https://breastcancerpredictorbydifinageorge.streamlit.app)
 
 > ⚠️ Make sure to enter all the feature values to get an accurate prediction.  
 > 🔒 All predictions are generated locally in your browser—your data is never stored.
